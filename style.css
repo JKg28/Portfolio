@@ -313,28 +313,22 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: crimson;
+    background: blue;
 }
-.skills-content .right .burp::before{
-    width: 95%;
+.skills-content .right .c::before{
+    width: 75%;
 }
-.skills-content .right .nmap::before{
+.skills-content .right .cp::before{
     width: 80%;
 }
-.skills-content .right .linux::before{
+.skills-content .right .at::before{
     width: 80%;
 }
-.skills-content .right .net::before{
+.skills-content .right .rt::before{
     width: 75%;
 }
 .skills-content .right .office::before{
     width: 90%;
-}
-.skills-content .right .hardware::before{
-    width: 90%;
-}
-.skills-content .right .os::before{
-    width: 70%;
 }
 
 
@@ -366,7 +360,7 @@ section .title::after{
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: crimson;
+    color: blue;
 }
 .contact .contact-content .info .head{
     font-weight: 500;
